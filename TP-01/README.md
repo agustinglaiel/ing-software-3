@@ -1,8 +1,14 @@
 # Trabajo Práctico Número 1
 
-## Punto 1: Instalar Git (ya lo tenia instalado)
+## Punto 1: Instalar Git
+
+### Lo tenia previamente instalado en mi computadora
 
 ## Punto 2: Crear un repositorio local y agregar archivos
+
+![nada](images/46.png)
+
+![nada](images/47.png)
 
 ## Punto 3: Configuración del Editor Predeterminado
 
