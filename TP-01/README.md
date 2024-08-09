@@ -6,9 +6,9 @@
 
 ## Punto 2: Crear un repositorio local y agregar archivos
 
-![nada](images/46.png)
-
 ![nada](images/47.png)
+
+![nada](images/46.png)
 
 ## Punto 3: Configuración del Editor Predeterminado
 
