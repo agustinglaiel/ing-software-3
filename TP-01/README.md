@@ -4,18 +4,6 @@
 
 ## Punto 2: Crear un repositorio local y agregar archivos
 
-### 1. Crear un repositorio local:
-
-### 2. Agregar un archivo Readme.md, agregar algunas líneas con texto a dicho archivo.
-
-![nada](images/5.png)
-
-![nada](images/6.png)
-
-### 3. Crear un commit y proveer un mensaje descriptivo.
-
-![Crear un commit y proveer un mensaje descriptivo](images/7.png)
-
 ## Punto 3: Configuración del Editor Predeterminado
 
 ### En este caso realicé los pasos mencionados en el PP presentado durante la clase para instalar TextMate
