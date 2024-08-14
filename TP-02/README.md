@@ -163,4 +163,14 @@ ENTRYPOINT ["dotnet", "SimpleWebAPI.dll"]
 
 ### Con docker exec nos conectamos al contenedor en ejecución para interactuar directamente con la base de datos a traves de la linea de comandos, permitiendonos gestionar la BDD y ejectuar consultas SQL directamente dentro del contenedor
 
-## Punto 12:
+## Punto 12: Hacer el punto 11 con Microsoft SQL Server
+
+![nada](images/31.png)
+
+![nada](images/32.png)
+
+![nada](images/33.png)
+
+## Punto 13: Presentación del trabajo práctico.
+
+### Subir un archivo md (puede ser en una carpeta) trabajo-practico-02 con las salidas de los comandos utilizados. Si es necesario incluir también capturas de pantalla.
