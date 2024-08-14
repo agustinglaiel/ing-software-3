@@ -110,3 +110,57 @@ ENTRYPOINT ["dotnet", "SimpleWebAPI.dll"]
 # Comando CMD comentado, podría usarse para sobrescribir el punto de entrada, por ejemplo, para acceder a una shell.
 #CMD ["/bin/bash"]
 ```
+
+![nada](images/11.png)
+
+![nada](images/12.png)
+
+![nada](images/13.png)
+
+## Punto 8: Publicando puertos
+
+![nada](images/14.png)
+
+![nada](images/15.png)
+
+![nada](images/16.png)
+
+![nada](images/17.png)
+
+### Si bien dentro del contenedor se estaba ejecutando el servicio, nunca se publicaba en los puertos de mi maquina local sino que estaba solo en los puertos de docker. En el otro paso que hicimos, vinculamos el puerto del contenedor con el de mi maquina local logrando visualizar lo que queriamos.
+
+## Punto 9: Modificar Dockerfile para soportar bash
+
+![nada](images/18.png)
+
+![nada](images/19.png)
+
+![nada](images/20.png)
+
+![nada](images/21.png)
+
+![nada](images/22.png)
+
+![nada](images/23.png)
+
+## Punto 10: Montando volúmenes
+
+![nada](images/24.png)
+
+![nada](images/25.png)
+
+![nada](images/26.png)
+
+## Punto 11: Utilizando una base de datos
+
+![nada](images/27.png)
+
+![nada](images/28.png)
+
+![nada](images/29.png)
+
+### Con docker run creamos y arrancamos un contenedor de docker que ejecuta una instancia de PostgreSQL donde tambien configuramos la contraseña, mapeamos puertos para lograr el acceso externo y asosciamos un volumen de datos para la persistencia de los mismos
+
+### Con docker exec nos conectamos al contenedor en ejecución para interactuar directamente con la base de datos a traves de la linea de comandos, permitiendonos gestionar la BDD y ejectuar consultas SQL directamente dentro del contenedor
+
+## Punto 12:
