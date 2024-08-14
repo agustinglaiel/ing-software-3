@@ -171,6 +171,10 @@ ENTRYPOINT ["dotnet", "SimpleWebAPI.dll"]
 
 ![nada](images/33.png)
 
+### agregamos lo de volumen
+
+![nada](images/34.png)
+
 ## Punto 13: Presentación del trabajo práctico.
 
 ### Subir un archivo md (puede ser en una carpeta) trabajo-practico-02 con las salidas de los comandos utilizados. Si es necesario incluir también capturas de pantalla.
