@@ -134,4 +134,36 @@
 
 ## Punto 6: Modificamos el código de nuestra API y creamos nuevas pruebas unitarias:
 
+![nada](images/6.1.png)
+
+![nada](images/6.2.png)
+
+![nada](images/6.3.png)
+
 ## Punto 7: Modificamos el código de nuestro Front y creamos nuevas pruebas unitarias:
+
+![nada](images/7.1.png)
+
+![nada](images/7.2.png)
+
+![nada](images/7.3.png)
+
+![nada](images/7.4.png)
+
+![nada](images/7.5.png)
+
+![nada](images/7.6.png)
+
+![nada](images/7.7.png)
+
+![nada](images/7.8.png)
+
+![nada](images/7.9.png)
+
+![nada](images/7.10.png)
+
+![nada](images/7.11.png)
+
+![nada](images/7.12.png)
+
+![nada](images/7.13.png)
